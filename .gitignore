@@ -1,0 +1,6 @@
+venv/
+capCALC.spec
+build/
+.idea/
+__pycache__/
+cable.ico
